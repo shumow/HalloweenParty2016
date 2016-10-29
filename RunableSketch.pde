@@ -2,7 +2,7 @@ abstract class RunableSketch {
   
   protected RunableSketch() {}
   
-  public update(float dt) {}
+  public void update(float dt) {}
   
-  public draw() {}    
+  public void draw() {}    
 }
